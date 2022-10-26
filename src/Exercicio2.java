@@ -13,5 +13,4 @@ public class Exercicio2 {
 
         System.out.println("A média é: " + (n1 + n2)/2);
     }
-    
-}
+} 
