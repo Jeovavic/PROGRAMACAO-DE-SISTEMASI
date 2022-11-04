@@ -1,3 +1,4 @@
+package calculoMediaSimples;
 import java.util.Scanner;
 
 public class Exercicio2 {
